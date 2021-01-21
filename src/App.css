@@ -1,10 +1,23 @@
 h1 {
     text-align: center;
+    display: grid;
+    color: #6d1080;
+    background-color: #eee56f;
 }
 
 .grades {
     display: flex;
-    justify-content: space-around;
+    justify-content:center ;
+    align-items: center;
     margin-top: 40px;
+    box-shadow: 0px 4px 8px 0;
+    background-color: #cccccc;
+
+    border-radius: 20px;
+
 }
+
+.grades h2 {
+    text-align: center;    
     
+}

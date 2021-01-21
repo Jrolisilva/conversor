@@ -1,7 +1,21 @@
-.conversor {
-        
+.conversor h2 {
+    text-align: center;
+
 }
 
+.conversor button{
+    background-color: #6d1080;
+    color: #fff;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    margin-left: 20px;  
+    margin-right: 20px;
+    padding: 10px 15px;
+  
+}
 .conversor input{
-    border: 1px solid #bbb;  
+    font-size: 1.2rem;
+    text-align: right;
+    outline-style: none;
+     
 }
